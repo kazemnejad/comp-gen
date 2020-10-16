@@ -1,3 +1,6 @@
 [submodule "third_parties/ling-systematicity/lib"]
 	path = third_parties/ling-systematicity/lib
 	url = https://github.com/emilygoodwin/systematicity.git
+[submodule "third_parties/monotonicity-in-nli/lib"]
+	path = third_parties/monotonicity-in-nli/lib
+	url = https://github.com/verypluming/systematicity.git
